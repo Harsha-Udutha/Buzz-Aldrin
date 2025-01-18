@@ -1,0 +1,23 @@
+# Unity Generated Files (Do NOT Upload These)
+Library/
+Logs/
+Temp/
+obj/
+*.csproj
+*.sln
+
+# Ignore Build and Cache
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Ignore Unity Collab Metadata
+.Collab/
+
+# Ignore VS Code & Rider Files
+.vscode/
+.idea/
+
+# Ignore Git Ignore Backups
+.gitignore~
