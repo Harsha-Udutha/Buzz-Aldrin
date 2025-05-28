@@ -15,7 +15,7 @@ To download the game, check out the **[Releases](https://github.com/Harsha-Uduth
 
 ---
 
-## 🛠 How to Play  
+##  How to Play  
 1. **Move & Explore** – Navigate through Aldrin’s high-tech apartment.  
 2. **Use Gravity Shift** – Master the new movement mechanics.  
 3. **Catch the Swarm** – Capture **100 bug swarms** before they consume the home.  
